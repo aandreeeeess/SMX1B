@@ -1,1 +1,3 @@
 # SMX1B
+![text alternatiu](URL de la imatge).
+![POCOYO](https://www.google.com/imgres?q=POCOYO%20con%20down&imgurl=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgy7JUbXbUH4GlUPQCsAEZZB_uOLU9QJh2OBg54hGjbIoPU3rd1uBRJmRCwHzCMiOvfsIx0ubr3Eocf9nLbwbUrXNA4qYsIaeQ5V8mkNNOpxT7_siyqWB9qW4J2WDaVzsrYrdMy2Ub5QlqB%2Fs1600%2FIMG_1503.JPG&imgrefurl=http%3A%2F%2Frandomwalkdownmommystreet.blogspot.com%2F2011%2F06%2Fpartytime-hs-birthday-pocoyo-lets-party.html&docid=VJLCPGNLLpTacM&tbnid=Qe43BAe37bid5M&vet=12ahUKEwiRwu3wnN2PAxUGKvsDHSLmNfc4FBAzegQIaBAA..i&w=1600&h=1067&hcb=2&itg=1&ved=2ahUKEwiRwu3wnN2PAxUGKvsDHSLmNfc4FBAzegQIaBAA)
