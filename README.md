@@ -6,7 +6,8 @@ Compra:
 - Els plàtans
 - Taronges
 
-![Imatge d'exemple](https://www.ejemplo.com/imagen.jpg)
+![Imatge d'exemple](https://static.wikia.nocookie.net/pocoyo8381/images/f/f0/Boca_Abajo-00008.jpg/revision/latest?cb=20230525034414&path-prefix=es
+https://www.ejemplo.com/imagen.jpg).
 
 Podeu ressaltar el text en *cursiva* o **negreta** segons les vostres necessitats.
 ![POCOYO](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8ffb1694-a73d-4cd7-8925-88e451f83096" />)
